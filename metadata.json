@@ -1,0 +1,6 @@
+{
+  "name": "Random Aptitude & Quiz Engine",
+  "description": "Enterprise-grade Random Aptitude & Quiz Engine featuring General Knowledge, Logical Reasoning, Quantitative Aptitude, and Brain Teasers with real-time countdown, session-based evaluation, step-by-step explanations, and Java Spring Boot 3 architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
